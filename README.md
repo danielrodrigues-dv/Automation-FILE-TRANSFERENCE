@@ -1,14 +1,14 @@
 <h1 align="center">AUTOMATION - FILE TRANSFERENCE BASIC</h1>			
 <br>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danielrodrigues-dv/automation-file?style=flat-square&&color=%2304D361" />
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danielrodrigues-dv/automation-file?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/danielrodrigues-dv/automation-file?style=flat-square" />
-	<a href="https://github.com/danielrodrigues-dv/automation-file/blob/master/LICENSE">
-  <img src="https://img.shields.io/github/license/danielrodrigues-dv/automation-file?style=flat-square&" />
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danielrodrigues-dv/Automation-file?style=flat-square&&color=%2304D361" />
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danielrodrigues-dv/Automation-file?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/danielrodrigues-dv/Automation-file?style=flat-square" />
+	<a href="https://github.com/danielrodrigues-dv/Automation-file/blob/master/LICENSE">
+  <img src="https://img.shields.io/github/license/danielrodrigues-dv/Automation-file?style=flat-square&" />
 	</a>
-  <a href="https://github.com/danielrodrigues-dv/automation-file/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielrodrigues-dv/automation-file?style=flat-square&">
+  <a href="https://github.com/danielrodrigues-dv/Automation-file/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielrodrigues-dv/Automation-file?style=flat-square&">
   </a>
   <a href="https://github.com/danielrodrigues-dv">
     <img alt="Feito por danielrodrigues-dv" src="https://img.shields.io/badge/feito%20por-Daniel%20Rodrigues-%237519C1?style=flat-square&">
