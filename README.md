@@ -1,4 +1,4 @@
-<h1 align="center">AUTOMATION -Dogeminer</h1>			
+<h1 align="center">AUTOMATION - FILE TRANSFERENCE BASIC</h1>			
 <br>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danielrodrigues-dv/automation-file?style=flat-square&&color=%2304D361" />
@@ -35,18 +35,15 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-<p>Este projeto foi desenvolvido com o intuito de aprimorar a experiência de jogadores no Dogeminer, proporcionando uma forma eficaz de realizar tarefas repetitivas.
-Utilize-o de maneira ética e responsável, respeitando os termos de serviço do jogo.</p>
-<p>Espero que esta automação torne sua jornada no Dogeminer ainda mais divertida! Sinta-se à vontade para explorar o código-fonte e contribuir para o aprimoramento contínuo deste projeto. Dúvidas, sugestões e feedback são sempre bem-vindos.</p>
-Divirta-se jogando!
+<p>Este projeto consiste em uma automação simples que realiza a cópia de arquivos da primeira pasta e os transfere para a segunda pasta. A execução eficiente dessa tarefa permite uma gestão mais ágil e organizada dos arquivos, otimizando o fluxo de trabalho.</p>
+
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- :white_check_mark: A automação inicia automaticamente o site do jogo, proporcionando praticidade e economizando seu tempo.
-- :white_check_mark: O programa realiza cliques automáticos em um elemento-chave do jogo, otimizando a realização de tarefas e maximizando a acumulação de pontos.
-- :white_check_mark: Propaganda são fechadas de forma automatizada.
+- :white_check_mark: Os arquivos são copiados e movidos de maneira automática, mantendo a ordem e organização desejadas.
+
  
 ---
 
@@ -72,7 +69,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/danielrodrigues-dv/Automation-Dogeminer.git
+$ git clone https://github.com/danielrodrigues-dv/Automation-file.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd application
